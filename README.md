@@ -1,2 +1,14 @@
 # newsleyu-archive
-HTML page archive and documentation
+
+页面归档与发布记录
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
